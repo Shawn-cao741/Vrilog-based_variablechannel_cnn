@@ -18,7 +18,7 @@
 
 # Structure
 
-<img src = "https://github.com/user-attachments/assets/7de69c55-7eb3-4b64-bbd1-27ef89b8720a" alt = "Structure of the whole network" width = "500"/>
+<img src = "https://github.com/user-attachments/assets/7de69c55-7eb3-4b64-bbd1-27ef89b8720a" alt = "Structure of the whole network" width = "700"/>
 
 *Structure of Conv1*
 <img alt="Structure of Conv1" src="https://github.com/user-attachments/assets/7178b4c6-27ce-4eb1-96ba-ee9d16207702" width = "500"/>
