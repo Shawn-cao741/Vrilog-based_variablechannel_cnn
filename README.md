@@ -29,6 +29,49 @@
 
 # Content
 
+variablechannel_cnn_fcc/
+│
+├── Source_1/
+    │
+    ├─ip(bram for fc1 and fc2)
+    ├─ip1(bram for convnet2)
+    ├─ip2(bram for convnet1)
+    ├─new(code for fc)
+    ├─new1(code for convnet2)
+    ├─bew2(code for convnet1)
+    
+
+sim_1/
+│
+├─new/
+   ├─tb.v(testbench of fc)
+   ├─tb_all.v(testbench of cnn)
+
+project-root/
+│
+├── src/
+│   ├── main.py
+│   ├── utils.py
+│   └── config/
+│       └── settings.yaml
+│
+├── tests/
+│   └── test_main.py
+│
+├── README.md
+└── requirements.txt
+
+
+# Result
+*16 channels*
+<img alt="16 chnnels result" src="https://github.com/user-attachments/assets/4a3dd5f6-3a5b-4fbd-9ea2-7b458d3b45c2" width = "500"/>
+
+
+
+
+
+
+
 
 
 
