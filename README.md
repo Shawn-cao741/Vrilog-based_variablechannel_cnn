@@ -1,5 +1,5 @@
 # variablechannel_cnn_fc
-  A Verilog based CNN accelerator for 1-D signal binary classfication task. The simulation is successful but it needs a little improvement in timing for its implementation.
+  A Verilog based CNN accelerator for 1-D signal binary classfication task. The simulation is successful but it needs a little improvement in timing for its implementation(done by Shuang chuang ming).
 # Overview
 
 ![image](https://github.com/user-attachments/assets/b995c34b-1d2c-4fe8-b803-105cf22cd7aa) 
